@@ -4,13 +4,13 @@
 
 ## Key Takeaways:
 
-Come to this session to see experiences in different environments for using Ansible to manage vSphere environments
+Learn from panelist experiences using Ansible to manage vSphere environments.
 
-Learn about different limitations, workarounds and use cases.
+Learn about limitations, workarounds and use cases.
 
-Understand how you can integrate Ansible into your enterprise operations
+Understand how you can integrate Ansible into your enterprise operations.
 
-Receive a perspective from people who were first VMware administrators and have now embraced Ansible
+Gain insight from people who were first VMware administrators and have now embraced Ansible.
 
 ## Session Abstract:
 

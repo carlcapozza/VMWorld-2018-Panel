@@ -14,7 +14,7 @@ Gain insight from people who were first VMware administrators and have now embra
 
 ## Session Abstract:
 
-What is Ansible? How can I use it to make my life easier? If you can answer these questions, love the simplicity of this management tool and are looking for more ways to use, come and here our panel of professionals discuss their experiences and approaches to modernizing their deployment practices using Ansible and VMware's RESTful APIs.  Gain insightful aproaches from their lessons learned, and some time saving tips tricks to help with your organization's automation adoption.
+What is Ansible? How can I use it to make my life easier? If you can answer these questions, love the simplicity of this management tool and are looking for more ways to use it, come and here our panel of professionals discuss their experiences and approaches to modernizing their deployment practices using Ansible and VMware's RESTful APIs.  Gain insightful aproaches from their lessons learned, and some time saving tips tricks to help with your organization's automation adoption.
 
 ## Extended Abstract:
 

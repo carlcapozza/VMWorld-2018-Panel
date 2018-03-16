@@ -14,7 +14,7 @@ Gain insight from people who were first VMware administrators and have now embra
 
 ## Session Abstract:
 
-The IT industry is pushing to adapt automation. For VMware environments, there has been a strong push to use API calls, particularly RESTful APIs. Once a vSphere administrator understands what interacting with an API entails, the question becomes - how does this make my life easier? Ansible is one tool that has gained popularity as the DevOps community grows and can be quickly make an impact in your enterprise operations.
+What is Ansible? How can I use it to make my life easier? If you can answer these questions, love the simplicity of this management tool and are looking for more ways to use it, come and hear our panel of professionals discuss their experiences and approaches to modernizing their deployment practices using Ansible and VMware's RESTful APIs.  Gain insightful aproaches from their lessons learned, and some time saving tips tricks to help with your organization's automation adoption.
 
 ## Extended Abstract:
 
